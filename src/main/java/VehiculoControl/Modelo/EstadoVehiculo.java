@@ -1,4 +1,4 @@
 package VehiculoControl.Modelo;
 
-public class EstadoVehiculo {
+public enum EstadoVehiculo {
 }
