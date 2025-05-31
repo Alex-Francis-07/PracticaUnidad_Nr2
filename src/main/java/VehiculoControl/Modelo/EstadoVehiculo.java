@@ -1,4 +1,8 @@
 package VehiculoControl.Modelo;
 
-public class EstadoVehiculo {
+// Enum que representa el estado del vehículo
+public enum EstadoVehiculo {
+    DISPONIBLE,
+    NECESITA_MANTENIMIENTO,
+    INACTIVO
 }
