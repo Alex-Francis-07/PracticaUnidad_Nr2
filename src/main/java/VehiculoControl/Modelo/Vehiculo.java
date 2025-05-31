@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author AlexSigcho
+ * @author AlexSigcho, Yandri Piscocama, Julian Vega, Sebastian Orellana
  */
 
 // Clase abstracta base para cualquier tipo de vehículo
