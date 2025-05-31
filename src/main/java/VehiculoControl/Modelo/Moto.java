@@ -2,6 +2,10 @@ package VehiculoControl.Modelo;
 
 import java.time.LocalDate;
 
+/**
+ * @author AlexSigcho, Yandri Piscocama, Julian Vega, Sebastian Orellana
+ */
+
 // Clase para motos, hereda de Vehiculo
 public class Moto extends Vehiculo {
     private int cilindrada;

@@ -2,6 +2,10 @@ package VehiculoControl.Modelo;
 
 import java.time.LocalDate;
 
+/**
+ * @author AlexSigcho, Yandri Piscocama, Julian Vega, Sebastian Orellana
+ */
+
 // Clase para camiones, hereda de Vehiculo
 public class Camion extends Vehiculo {
     private int numeroEjes;

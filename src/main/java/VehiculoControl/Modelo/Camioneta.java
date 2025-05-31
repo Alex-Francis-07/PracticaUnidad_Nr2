@@ -2,6 +2,10 @@ package VehiculoControl.Modelo;
 
 import java.time.LocalDate;
 
+/**
+ * @author AlexSigcho, Yandri Piscocama, Julian Vega, Sebastian Orellana
+ */
+
 // Clase para camionetas, hereda de Vehiculo
 public class Camioneta extends Vehiculo {
     private boolean traccion4x4;
