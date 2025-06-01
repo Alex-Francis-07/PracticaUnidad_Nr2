@@ -1,3 +1,7 @@
+/**
+ * @ Yandri Piscocama -Julian Vega - Sebastian Orellana - Alex Sigcho
+ */
+
 package VehiculoControl.Controlador;
 
 import VehiculoControl.Modelo.*;
@@ -48,3 +52,6 @@ public class ServicioVehiculo {
         }
     }
 }
+/**
+ * @ Yandri Piscocama -Julian Vega - Sebastian Orellana - Alex Sigcho
+ */
